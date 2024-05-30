@@ -3,7 +3,7 @@
 * Universidade Nove de Julho (UNINOVE)
 * Análise e Desenvolvimento de Sistemas
 
-#Integrantes
+# Integrantes
 
 * Lucas Lunardi Barros (Líder) 
 * André Luís Silva
