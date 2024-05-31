@@ -7,12 +7,15 @@
 
 * Lucas Lunardi Barros (Líder) 
 * André Luís Silva
-* Cintia regina da Conceição Lopes
+* Cintia Regina da Conceição Lopes
+* Emily Onofre Rodrigues
 * Felipe Ferreira de Medeiros
 * Gustavo Henrique B Dias
+* Henrique dos Santos Moreira
 * Leandro Cesarini Alves Batista
+* Lucas Correa de Jesus
 * Rafael dos Santos Silva
-* Wagner Rodrigues 
+* Wagner Rodrigues
 
 # Professor
 
